@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fsd-java-ubank.iml" filepath="$PROJECT_DIR$/fsd-java-ubank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U-Bank.iml" filepath="$PROJECT_DIR$/U-Bank.iml" />
     </modules>
   </component>
 </project>
